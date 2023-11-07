@@ -1,0 +1,26 @@
+body{
+    background-color: #333232;
+}
+
+#container{
+    background-color: #0e2431;
+    border:5px solid white;
+    height:275px;
+    width:750px;
+    margin:auto;
+    text-align: center;
+}
+
+p{
+    color: azure;
+    font-size:auto ;
+}
+
+#input{
+    width: 100px;
+    margin:25px auto;
+}
+
+#btn{
+    margin:25px auto auto 5px;
+}
